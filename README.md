@@ -1,23 +1,37 @@
-Here is a clean, visually appealing version of your instructions in Markdown. I’ve organized it into a professional format that makes the process look simple and inviting.
+---
 
-⚔️ D&D Utility Suite
-Fetcher & Randomizer
+# ⚔️ D&D Utility Suite
+
+### **Fetcher & Randomizer**
+
 Enhance your tabletop experience with these lightweight, portable tools. No complex setups—just download and play.
 
-🚀 Quick Start Guide
+---
+
+## 🚀 Quick Start Guide
+
 Setting up your tools takes less than a minute. Follow these three simple steps:
 
-Download Grab the latest version by downloading the repository as a .zip file.
+1. **Download** Grab the latest version by downloading the repository as a **.zip** file.
+2. **Unpack** **Extract** the contents of the zip folder to your preferred location on your computer.
+3. **Launch** Run the programs whenever you need them. These are **portable executables**, meaning there is **no installation required**.
 
-Unpack Extract the contents of the zip folder to your preferred location on your computer.
+---
 
-Launch Run the programs whenever you need them. These are portable executables, meaning there is no installation required.
+## 🛠️ Troubleshooting & Support
 
-Why use these tools?
-Zero Footprint: Keeps your system clean; no registry changes or deep installs.
+Is something not working as expected? I'm here to help!
 
-Instant Access: Perfect for running off a USB drive during a live session.
+* **Check Requirements:** Ensure you have an active internet connection for the Fetcher.
+* **Report a Bug:** If you encounter a crash or a glitch, please **open an Issue on GitHub**.
+* **Resolution:** I monitor the repository regularly and will look into your report as soon as possible.
 
-Efficient: Designed to get you back to the game faster.
+---
 
-Note: Ensure you have the latest system updates to maintain compatibility with the randomizer engine.
+### **Why use these tools?**
+
+* **Zero Footprint:** No registry changes or messy installation files.
+* **Instant Access:** Perfect for running off a USB drive during a live session.
+* **Lightweight:** Fast performance that won't lag your digital character sheets.
+
+---
