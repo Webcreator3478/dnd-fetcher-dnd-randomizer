@@ -21,8 +21,6 @@ class LootGenerator(ctk.CTk):
 
         # --- SET THE WINDOW ICON ---
         try:
-            # We use a slight delay (after) because some Windows versions 
-            # struggle to set the icon before the main window is fully initialized.
             icon_path = get_resource_path("logo.ico")
             self.after(200, lambda: self.iconbitmap(icon_path))
         except:
@@ -84,4 +82,5 @@ class LootGenerator(ctk.CTk):
 
 if __name__ == "__main__":
     app = LootGenerator()
+
     app.mainloop()
