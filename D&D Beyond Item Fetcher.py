@@ -10,7 +10,6 @@ import sys
 import ctypes
 
 # --- TASKBAR ICON FIX ---
-# This tells Windows to treat this as a unique application so the icon shows in the taskbar.
 try:
     myappid = 'mycompany.myproduct.subproduct.version' # arbitrary string
     ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
@@ -209,4 +208,5 @@ class DnDFetcherGUI:
 if __name__ == "__main__":
     root = tk.Tk()
     app = DnDFetcherGUI(root)
+
     root.mainloop()
